@@ -1,9 +1,10 @@
-![logo](https://github.com/Muhammad-Suleman-Talib/Muhammad-Suleman-Talib/blob/main/Suleman.png)
+![logo](https://github.com/Muhammad-Suleman-Talib/Muhammad-Suleman-Talib/blob/main/suleman.png)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer💻</h3>
 
+<img align="right" alt="cooding" width="400" src="https://media3.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b952ooliftqyj4kwdin7639bc9m7li6caq2972uh89wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-suleman-talib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-suleman-talib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-suleman-talib" alt="muhammad-suleman-talib" /></a> </p>
@@ -33,6 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-suleman-talib&" alt="muhammad-suleman-talib" /></p>
 
 
-<img align="right" alt="cooding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 

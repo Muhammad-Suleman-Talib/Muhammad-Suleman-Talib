@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammad-Suleman-Talib/Muhammad-Suleman-Talib/blob/main/suleman.png)
+![logo]((https://drive.google.com/file/d/1Wmbl5VUKNsqOcdvN7GNZ_G6lcEYnOmxS/view?usp=sharing))
 
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Web Technologies Enthusiast 💻🤖</h3>
@@ -50,10 +50,10 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-suleman" target="_blank">
+  <a href="[https://linkedin.com/in/muhammad-suleman](https://www.linkedin.com/in/muhammad-suleman-a049902b5/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://fb.com/muhammad-suleman" target="_blank">
+  <a href="[https://fb.com/muhammad-suleman](https://www.facebook.com/profile.php?id=61561275719749)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://discord.gg/MuhammadSuleman" target="_blank">
